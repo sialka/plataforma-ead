@@ -5,11 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon src/index"
+    "start": "nodemon src/index",
+    "eslint": "eslint ./src/**/*.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.2",
     "nodemon": "^1.19.1"
   },
   "dependencies": {
