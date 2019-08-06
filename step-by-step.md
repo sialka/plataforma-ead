@@ -38,4 +38,7 @@ npx install-peerdeps --dev eslint-config-airbnb-base
 },
 ...
 
+##**Dependências**
 
+- [x] npm install --save dotenv-safe
+- [x] npm install --save mongoose
