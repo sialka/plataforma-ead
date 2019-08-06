@@ -12,3 +12,4 @@ O projeto trata-se de uma Plataforma de curso EAD.
 - [x] #4 Proposta + arquitetura + tecnologias
 - [x] #5 Coding Style + ESLint
 - [x] #6 MongoDB + MySQL Juntos!
+- [x] #7 Docker compose na API
