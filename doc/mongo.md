@@ -14,3 +14,7 @@
   - Materiais
 
 - Categorias
+
+**Documentação Oficial**
+
+https://mongoosejs.com/
